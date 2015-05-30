@@ -6,7 +6,7 @@ here's some swell things about my repository
 
 HELLO WORLD
 
-##Git Branches
+##Github Branches
 help makes cheanges outside of master
 
 ##Last Section
