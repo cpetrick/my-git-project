@@ -21,3 +21,6 @@ More changes trying to learn Github
 
 # these are merge collaboration changes
 it isn't that hard once you know what's going on
+
+# Coffee
+more coffee would be great, but then I'll be wound up
