@@ -13,3 +13,6 @@ help makes cheanges outside of master
 Add LAst Section
 ##Git Branches
 help make changes...blah blah blah blah blah blah blah blah blah
+
+##Fantastic New changes
+More changes trying to learn Github
