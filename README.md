@@ -1,4 +1,4 @@
-# My Git Project
+# My Far Better Git Project
 
 ## subtitle
 here's some swell things about my repository
@@ -7,10 +7,10 @@ here's some swell things about my repository
 HELLO WORLD
 
 ##Github Branches
-help makes cheanges outside of master
+help makes changes outside of master
 
 ##Last Section
-Add LAst Section
+Add Last Section
 ##Git Branches
 help make changes...blah blah blah blah blah blah blah blah blah
 
