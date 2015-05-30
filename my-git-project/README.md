@@ -2,8 +2,7 @@
 
 ## subtitle
 here's some swell things about my repository
-ls
-cd ..
-cd ..
-git status
+
+
+HELLO WORLD
 ##
